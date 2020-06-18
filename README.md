@@ -1,4 +1,4 @@
 # git-github
 Test
 
-This is my 1st git teast. 
+This is my 1st git test. 
